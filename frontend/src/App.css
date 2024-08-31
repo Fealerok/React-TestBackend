@@ -1,0 +1,8 @@
+.container{
+    display: flex;
+    flex-direction: column;
+}
+
+.container_form button, .container_form input{
+    font-size: 25px;
+}
